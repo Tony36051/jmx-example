@@ -1,0 +1,4 @@
+id	label	method	uri	body
+1	get user	GET	/users/tony	
+2	get myself	GET	/user	
+3	create gitst	POST	/gists/0b59faceea4d56cc865092b7709c5b2a/comments	"{""body"":""Just commenting for the sake of commenting, and will not be deleted""}"
